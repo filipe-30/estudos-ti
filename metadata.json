@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora em Python",
+  "description": "Calculadora completa em Python com operações básicas de soma, subtração, multiplicação e divisão, interface interativa, terminal CLI e código-fonte para download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
